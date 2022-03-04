@@ -4,8 +4,8 @@ I’m Cecilia, 22 years old, a tech enthusiast and currently learning how to pro
 
 <div align="center">
   <a href="https://github.com/ceciliarauen">
-  <img width="180em" src="https://github-readme-stats.vercel.app/api?username=ceciliarauen&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
- <img width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliarauen&layout=compact&langs_count=7&theme=panda"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ceciliarauen&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliarauen&layout=compact&langs_count=7&theme=panda"/>
 </div>
 
 
