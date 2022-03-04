@@ -4,8 +4,8 @@ I’m Cecilia, 22 years old, a tech enthusiast and currently learning how to pro
 
 <div align="center">
   <a href="https://github.com/ceciliarauen">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ceciliarauen&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliarauen&layout=compact&langs_count=7&theme=panda"/>
+  <img width="180em" src="https://github-readme-stats.vercel.app/api?username=ceciliarauen&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+ <img width="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliarauen&layout=compact&langs_count=7&theme=panda"/>
 </div>
 
 
@@ -27,4 +27,5 @@ I’m Cecilia, 22 years old, a tech enthusiast and currently learning how to pro
   <a href = "mailto:rauencecilia@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ceciliarauen/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+    ![Snake animation](https://github.com/ceciliarauen/ceciliarauen/blob/output/github-contribution-grid-snake.svg)
 </div>
