@@ -2,7 +2,7 @@
 <div align="center">
 I’m Cecilia, 22 years old, a tech enthusiast and currently learning to use the cross-platform app Framework Flutter!   ヽ(✿ﾟ▽ﾟ)ノ
 </div>     
-##
+
 
 
 <div align="center">
