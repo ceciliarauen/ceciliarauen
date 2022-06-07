@@ -1,14 +1,16 @@
-<h1> Hey there! </h1>
-<div align="center">
+<div align="center"><h1> Hey there! </h1>
+
+
 I’m Cecilia, 23 years old, a tech enthusiast and currently learning to use the cross-platform app Framework Flutter!   ヽ(✿ﾟ▽ﾟ)ノ
 </div>     
 
+<hr>
 
 
 <div align="center">
   <a href="https://github.com/ceciliarauen">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ceciliarauen&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
- <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliarauen&layout=compact&langs_count=7&theme=panda"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ceciliarauen&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+ <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ceciliarauen&layout=compact&langs_count=7&theme=panda"/>
 </div>
 
 <div align="center">
