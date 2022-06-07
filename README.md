@@ -1,6 +1,6 @@
 <h1> Hey there! </h1>
 <div align="center">
-I’m Cecilia, 22 years old, a tech enthusiast and currently learning to use the cross-platform app Framework Flutter!   ヽ(✿ﾟ▽ﾟ)ノ
+I’m Cecilia, 23 years old, a tech enthusiast and currently learning to use the cross-platform app Framework Flutter!   ヽ(✿ﾟ▽ﾟ)ノ
 </div>     
 
 
