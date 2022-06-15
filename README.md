@@ -23,7 +23,6 @@ I’m Cecilia, 23 years old, a tech enthusiast and currently learning to use the
   <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
 </div>
   
-#
            
           
 
